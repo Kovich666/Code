@@ -1,0 +1,7 @@
+D:\VSC\DelegateANDEvents\DelegateANDEvents\bin\Debug\DelegateANDEvents.exe.config
+D:\VSC\DelegateANDEvents\DelegateANDEvents\bin\Debug\DelegateANDEvents.exe
+D:\VSC\DelegateANDEvents\DelegateANDEvents\bin\Debug\DelegateANDEvents.pdb
+D:\VSC\DelegateANDEvents\DelegateANDEvents\obj\Debug\DelegateANDEvents.csprojAssemblyReference.cache
+D:\VSC\DelegateANDEvents\DelegateANDEvents\obj\Debug\DelegateANDEvents.csproj.CoreCompileInputs.cache
+D:\VSC\DelegateANDEvents\DelegateANDEvents\obj\Debug\DelegateANDEvents.exe
+D:\VSC\DelegateANDEvents\DelegateANDEvents\obj\Debug\DelegateANDEvents.pdb
